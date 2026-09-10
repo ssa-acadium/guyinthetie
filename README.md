@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="assets/guyinthetie-logo.png" alt="Codesmith" width="300">
+</div>
 # guyinthetie
 
 **A Senior Technical Program Manager for Agents and Subagents.**
