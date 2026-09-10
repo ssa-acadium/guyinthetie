@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/guyinthetie-logo.png" alt="Codesmith" width="300">
+  <img src="assets/guyinthetie-logo.png" alt="guyinthetie" width="300">
 </div>
 
 # guyinthetie
